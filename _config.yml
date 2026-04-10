@@ -3,6 +3,9 @@ description: Academic homepage
 theme: minima
 markdown: kramdown
 
+url: "https://mxy68.github.io"
+baseurl: ""
+
 header_pages:
   - about.md
   - publications.md
