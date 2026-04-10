@@ -1,10 +1,17 @@
 ---
-layout: default
+layout: home
 title: Home
 ---
 
-# Welcome
+# Xiaoyan Ma
 
-This is my academic homepage.
+Ph.D. Student in Electrical and Computer Engineering, Purdue University
 
-I am a PhD student at Purdue University.
+My research interests include:
+- Federated learning
+- Machine learning security
+- Wireless communications
+- Reconfigureble Intelligent Surface
+- Integrated Communication and Sensing
+
+Welcome to my academic homepage.
