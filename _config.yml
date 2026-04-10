@@ -2,3 +2,11 @@ title: Xiaoyan Ma
 description: Academic homepage
 theme: minima
 markdown: kramdown
+
+header_pages:
+  - about.md
+  - publications.md
+  - projects.md
+  - cv.md
+  - contact.md
+  - paws.md
