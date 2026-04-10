@@ -4,12 +4,12 @@ title: Publications
 permalink: /publications/
 ---
 
-## Selected Journal Papers
+## Journal Papers
 
 1. Paper title 1
 2. Paper title 2
 
-## Selected Conference Papers
+## Conference Papers
 
 1. Paper title 1
 2. Paper title 2
