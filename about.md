@@ -6,9 +6,9 @@ permalink: /about/
 
 <table>
   <tr>
-    <td width="260" valign="top">
-      <img src="{{ '/photo.png' | relative_url }}" alt="Xiaoyan Ma"
-           style="width: 220px; height: 220px; object-fit: cover; border-radius: 50%;">
+    <td width="280" valign="top">
+      <img src="{{ '/photo.jpg' | relative_url }}" alt="Xiaoyan Ma"
+           style="width: 230px; height: auto; border-radius: 0;">
     </td>
     <td valign="top">
       <h2 style="margin-top: 0;">Xiaoyan Ma</h2>
