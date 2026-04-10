@@ -6,11 +6,13 @@ permalink: /about/
 
 I am a Ph.D. student in Electrical and Computer Engineering at Purdue University.
 
-My research interests include federated learning, machine learning security, wireless communications, reconfigurable intelligent surface, and integrated sensing and communication.
+My research interests include federated learning, machine learning security, wireless communications, reconfigurable intelligent surfaces, and integrated communication and sensing.
 
-You can add your CV here, or later replace this page with a PDF link.
+## CV
 
-Email: your-email@purdue.edu
+You can download my CV here: [CV PDF](#)
 
-GitHub: https://github.com/mxy68
+## Contact
 
+Email: your-email@purdue.edu  
+GitHub: [mxy68](https://github.com/mxy68)
