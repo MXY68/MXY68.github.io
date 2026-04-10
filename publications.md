@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Selected Publications
+title: Publications
 permalink: /publications/
 ---
 
-## Journal Papers
+## Selected Journal Papers
 
 1. Paper title 1
 2. Paper title 2
 
-## Conference Papers
+## Selected Conference Papers
 
 1. Paper title 1
 2. Paper title 2
