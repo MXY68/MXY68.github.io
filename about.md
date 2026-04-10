@@ -3,16 +3,39 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img src="{{ '/photo.jpg' | relative_url }}" alt="Xiaoyan Ma" width="220">
-I am a Ph.D. student in Electrical and Computer Engineering at Purdue University.
 
-My research interests include federated learning, machine learning security, wireless communications, reconfigurable intelligent surfaces, and integrated communication and sensing.
+<table>
+  <tr>
+    <td width="260" valign="top">
+      <img src="{{ '/photo.jpg' | relative_url }}" alt="Xiaoyan Ma"
+           style="width: 220px; height: 220px; object-fit: cover; border-radius: 50%;">
+    </td>
+    <td valign="top">
+      <h2 style="margin-top: 0;">Xiaoyan Ma</h2>
 
-## CV
+      <p>
+        I am a Ph.D. student in Electrical and Computer Engineering at Purdue University.
+      </p>
 
-You can download my CV here: [CV PDF](#)
+      <p>
+        My research interests include federated learning, machine learning security,
+        wireless communications, reconfigurable intelligent surfaces, and integrated
+        communication and sensing.
+      </p>
 
-## Contact
+      <p>
+        My current work focuses on over-the-air federated learning, backdoor defense
+        in distributed learning systems, and intelligent wireless system design.
+      </p>
 
-Email: ma946@purdue.edu  
-GitHub: [mxy68](https://github.com/mxy68)
+      <p>
+        <strong>Email:</strong> ma946@purdue.edu<br>
+        <strong>GitHub:</strong> <a href="https://github.com/mxy68">mxy68</a>
+      </p>
+
+      <p>
+        <strong>CV:</strong> <a href="/CV_Xiaoyan_Ma.pdf">Download CV</a>
+      </p>
+    </td>
+  </tr>
+</table>
