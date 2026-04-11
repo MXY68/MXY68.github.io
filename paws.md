@@ -67,6 +67,13 @@ permalink: /paws/
     <p>Always watching quietly.</p>
   </div>
 
+ <div style="width: 220px; padding: 12px; border: 1px solid #ddd; border-radius: 12px; text-align: center;">
+    <img src="{{ '/assets/images/cats/cat2.jpg' | relative_url }}" alt="Cat 9"
+         style="width: 100%; height: 220px; object-fit: cover; border-radius: 10px;">
+    <p><strong>Maomao</strong></p>
+    <p>Always full of energy.</p>
+  </div>
+  
   <div style="width: 220px; padding: 12px; border: 1px solid #ddd; border-radius: 12px; text-align: center;">
     <img src="{{ '/assets/images/cats/cat10.jpg' | relative_url }}" alt="Cat 10"
          style="width: 100%; height: 220px; object-fit: cover; border-radius: 10px;">
