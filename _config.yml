@@ -1,10 +1,7 @@
 title: ""
-description: Academic homepage
+description: ""
 theme: minima
 markdown: kramdown
-
-url: "https://mxy68.github.io"
-baseurl: ""
 
 header_pages:
   - about.md
