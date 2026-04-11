@@ -68,7 +68,7 @@ permalink: /paws/
 
    <div style="width: 30%; min-width: 220px; padding: 12px; border: 1px solid #ddd; border-radius: 12px; text-align: center; box-sizing: border-box;">
     <a href="{{ '/assets/images/cats/cat7.jpg' | relative_url }}" target="_blank">
-      <img src="{{ '/assets/images/cats/cat7.jpg' | relative_url }}" alt="Cat 8"
+      <img src="{{ '/assets/images/cats/cat7.jpg' | relative_url }}" alt="Cat 7"
            style="width: 100%; height: 260px; object-fit: cover; border-radius: 10px;">
     </a>
     <p><strong>Maomao</strong></p>
